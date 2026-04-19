@@ -59,3 +59,15 @@ Aşağıdaki tablo, modellerin test verisi üzerindeki başarı metriklerini gö
     ```bash
     python main.py
     ```
+
+---
+
+##  **Hazırlayan**
+
+**İbrahim Türköz**
+
+**25019921056**
+
+**Makine Öğrenmesi Dersi**
+
+**Covid-19 Hasta Tahmini Ödevi**
