@@ -44,8 +44,20 @@ Aşağıdaki tablo, modellerin test verisi üzerindeki başarı metriklerini gö
 *  edilmiştir.
 * **Veri Sızıntısı:** Ölüm tarihi gibi sonucu doğrudan etkileyen veriler temizlenerek modelin gerçekçi tahminde bulunması sağlanmıştır.
 <img width="596" height="496" alt="korona1" src="https://github.com/user-attachments/assets/41cf3a30-5e55-441a-a155-b3f29627e062" />
+
+**Şekil 1:** Veri setindeki sınıf dağılımını göstermektedir. Pozitif ve negatif vakaların oranı gözlemlenerek veri dengesizliği (class imbalance) problemi analiz edilmiştir.
+
+---
+
 <img width="579" height="493" alt="korona2" src="https://github.com/user-attachments/assets/0cfedd49-456d-4557-b9c2-178c0ef78910" />
+
+**Şekil 2:** Modellerin doğruluk (Accuracy) karşılaştırmasını göstermektedir. Random Forest ve KNN modellerinin diğer algoritmalara göre daha yüksek performans sergilediği görülmektedir.
+
+---
+
 <img width="595" height="500" alt="korona3" src="https://github.com/user-attachments/assets/d71f5fbd-a469-4e1e-906b-6b91a26ab611" />
+
+**Şekil 3:** Confusion Matrix (Karışıklık Matrisi) çıktısını göstermektedir. Modelin doğru ve yanlış sınıflandırma sayıları analiz edilerek özellikle Recall değerinin sağlık verileri açısından önemi değerlendirilmiştir.
 
 ---
 
