@@ -1,5 +1,6 @@
 #  **ML Covid-19 Hasta Tahmini**
 ---
+
 ## **1. Proje Açıklaması**
 Bu proje, kaggle dan indirdiğimiz veri setini analiz ederek **COVID-19 risk durumunu(pozitif/negatif)** yüksek doğrulukla tahmin
 eden bir makine öğrenmesi çalışmasıdır.
